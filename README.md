@@ -37,6 +37,7 @@
 多动症儿童容易不小心破坏展品，监护人谨慎看管孩子时难以集中观赏展品 | 安保人员协助看管 | 重要 | 百度人体检测与属性识别api |
 
 ## 原型
+- [产品原型](http://nfunm033.gitee.io/museum_prototype)
 1. 拍照模块
 
 ![](https://upload-images.jianshu.io/upload_images/9457515-b1b4526e438b17ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
